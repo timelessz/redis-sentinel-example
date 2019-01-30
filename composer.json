@@ -1,0 +1,12 @@
+{
+    "name": "predisdemo",
+    "authors": [
+        {
+            "name": "timelesszhuang",
+            "email": "834916321@qq.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
